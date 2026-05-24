@@ -12,7 +12,9 @@ public class datatype {
      boolean isfishsmellsgood=false;
      System.out.println("Is Java Fun? " +isjavafun);
      System.out.println("Is Fish smells good? " +isfishsmellsgood);
-    
+    //char
+    char myChar='a';
+    System.out.println("character datatype "+myChar);
     }
 
 
